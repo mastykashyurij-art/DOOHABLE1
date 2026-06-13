@@ -1,0 +1,5 @@
+# Copy this file to .env.local for local dev, and set the same key in
+# Vercel → Project → Settings → Environment Variables for production.
+# Get a key at https://console.anthropic.com → API Keys.
+
+ANTHROPIC_API_KEY=sk-ant-your-key-here
